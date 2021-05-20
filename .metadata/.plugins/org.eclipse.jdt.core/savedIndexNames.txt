@@ -1,0 +1,9 @@
+INDEX VERSION 1.131+C:\Users\MONSTER\javacamp\.metadata\.plugins\org.eclipse.jdt.core
+4243035881.index
+278804527.index
+744293328.index
+380197650.index
+4207388141.index
+4225543820.index
+930271006.index
+3772059672.index

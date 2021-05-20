@@ -1,0 +1,21 @@
+package oop2Odev;
+
+import oopOdev1.UserManager;
+
+public class StudentManager extends UserManager { //student manager manager classý user manager sýnýfýndan miras alýr.
+	
+	
+	public void registerToCourse() {
+		System.out.println("Kurs kayýt olundu");		
+	}
+	
+	
+	public void takeAttendance() {		
+		System.out.println("Yoklama Alýndý");		
+	}
+	
+	public void finishAndContinue() {
+		System.out.println("Dersi bitir ve devam et");
+	}
+
+}
