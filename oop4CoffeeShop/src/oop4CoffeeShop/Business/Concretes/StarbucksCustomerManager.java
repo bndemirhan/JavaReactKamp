@@ -1,7 +1,7 @@
 package oop4CoffeeShop.Business.Concretes;
 
-import oop4CoffeeShop.Adapters.CustomerCheckService;
 import oop4CoffeeShop.Business.Abstracts.BaseCustomerManager;
+import oop4CoffeeShop.Business.Abstracts.CustomerCheckService;
 import oop4CoffeeShop.Entities.Concrete.Customer;
 
 public class StarbucksCustomerManager extends BaseCustomerManager {
