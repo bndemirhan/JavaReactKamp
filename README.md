@@ -1,4 +1,3 @@
-# Java-React
+# JavaReactKamp
 
 Yazılım Geliştirici Yetiştirme Kampı
-Örnek Çalışmalar
