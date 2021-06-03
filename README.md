@@ -1,3 +1,3 @@
-# Java&ReactKamp
+# JavaReactKamp
 
 Yazılım Geliştirici Yetiştirme Kampı
